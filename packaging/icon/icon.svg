@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <!-- PikoMacV simgesi: kapüşonlu mor bukalemun elinde not defteri tutuyor. 120'lik tasarım ızgarası macOS simge ızgarasına taşınır. -->
+  <g transform="translate(100 100) scale(7.6296) translate(-6 -6)">
+    <rect x="6" y="6" width="108" height="108" rx="24" fill="#0E1A36"/>
+    <clipPath id="c"><rect x="6" y="6" width="108" height="108" rx="24"/></clipPath>
+    <g clip-path="url(#c)">
+      <path d="M22 96 a13 13 0 1 1 13 -13 a7 7 0 1 1 -7 -7" fill="none" stroke="#9A4DE0" stroke-width="7" stroke-linecap="round"/>
+      <path d="M28 114 Q26 78 50 76 Q74 78 72 114Z" fill="#2A2A2E"/>
+      <path d="M40 80 Q50 90 60 80" fill="none" stroke="#3E3E44" stroke-width="5" stroke-linecap="round"/>
+      <path d="M46 84 L45 96 M54 84 L55 96" stroke="#B4B2A9" stroke-width="1.6" stroke-linecap="round"/>
+      <path d="M62 24 Q76 22 78 34 Q84 38 80 46 Q84 52 78 56" fill="none" stroke="#7B2FD0" stroke-width="7" stroke-linecap="round"/>
+      <path d="M24 50 Q22 22 50 22 Q76 22 76 50 Q76 76 50 76 Q24 76 24 50Z" fill="#9A4DE0"/>
+      <path d="M30 34 Q40 18 58 22 Q46 24 40 36Z" fill="#B273F0"/>
+      <circle cx="38" cy="48" r="11" fill="#B273F0"/>
+      <circle cx="38" cy="49" r="8" fill="#FFFFFF"/>
+      <circle cx="39" cy="50" r="5" fill="#2F8FE8"/>
+      <circle cx="39" cy="50" r="2.4" fill="#0E1A36"/>
+      <path d="M27 44 Q38 36 49 45" fill="#9A4DE0" stroke="#5A1FA0" stroke-width="2.2" stroke-linecap="round"/>
+      <circle cx="62" cy="48" r="11" fill="#B273F0"/>
+      <circle cx="62" cy="49" r="8" fill="#FFFFFF"/>
+      <circle cx="61" cy="50" r="5" fill="#2F8FE8"/>
+      <circle cx="61" cy="50" r="2.4" fill="#0E1A36"/>
+      <path d="M51 45 Q62 36 73 44" fill="#9A4DE0" stroke="#5A1FA0" stroke-width="2.2" stroke-linecap="round"/>
+      <path d="M40 65 Q50 71 62 63" fill="none" stroke="#5A1FA0" stroke-width="2.6" stroke-linecap="round"/>
+      <g transform="rotate(8 84 86)">
+        <rect x="66" y="64" width="36" height="44" rx="6" fill="#FFFFFF"/>
+        <rect x="66" y="64" width="36" height="9" rx="4.5" fill="#B273F0"/>
+        <path d="M75 82 L84 99 L93 82" fill="none" stroke="#7B2FD0" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+      </g>
+      <circle cx="66" cy="94" r="6.5" fill="#9A4DE0"/>
+    </g>
+  </g>
+</svg>
